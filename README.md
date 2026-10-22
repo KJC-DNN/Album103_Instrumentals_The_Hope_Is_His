@@ -19,3 +19,7 @@ Album 103 Instrumentals — 14 tracks
     
 All Glory to Lord Jesus Christ.
 Amen. Maranatha.
+
+# Published:
+1. Archive.org : https://archive.org/details/album-103-instrumentals-the-hope-is-his-cover.jpg
+2. Zenodo : https://doi.org/10.5281/zenodo.23555835
