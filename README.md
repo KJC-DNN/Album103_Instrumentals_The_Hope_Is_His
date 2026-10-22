@@ -19,6 +19,3 @@ Album 103 Instrumentals — 14 tracks
     
 All Glory to Lord Jesus Christ.
 Amen. Maranatha.
-
-# Tracks are available here:
-https://github.com/KJC-DNN/Album103_The_Hope_Is_His/tree/main
